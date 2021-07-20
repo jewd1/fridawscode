@@ -1,1 +1,3 @@
 FileB.txt 
+
+Fridaws first code
