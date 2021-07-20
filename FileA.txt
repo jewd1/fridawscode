@@ -1,2 +1,3 @@
 FileA.txt 
 Fridaws first code
+I am not coming tomorrow
